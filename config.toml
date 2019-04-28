@@ -1,0 +1,6 @@
+baseURL = "https://kansailt.github.io"
+languageCode = "en-us"
+title = "KansaiLT"
+theme = "hugo-theme-blueberry-detox"
+canonifyurls = true
+

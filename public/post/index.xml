@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on KansaiLT</title>
+    <link>https://kansailt.github.io/post/</link>
+    <description>Recent content in Posts on KansaiLT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2019 16:47:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://kansailt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kansailt_4th</title>
+      <link>https://kansailt.github.io/post/kansailt_4th/</link>
+      <pubDate>Sun, 28 Apr 2019 16:47:07 +0900</pubDate>
+      
+      <guid>https://kansailt.github.io/post/kansailt_4th/</guid>
+      <description> KansaiLT 4th @大阪工業大学 を開催します 概要 ５月１１日(土)に大阪工業大学枚方キャンパスにて開催いたします。
+イベント開始時刻は１３：００です。
+よろしくおねがいします。
+詳細はこちら(connpassに飛びます)
+当日のアンケートなど  投票フォーム： アンケート：  </description>
+    </item>
+    
+  </channel>
+</rss>
