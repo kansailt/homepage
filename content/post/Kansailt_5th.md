@@ -18,7 +18,7 @@ draft: false
   
 #### [投票フォームはこちら](https://docs.google.com/forms/d/e/1FAIpQLSez5murEghzpI_akPnVcWcSUMxCDb1U5cUd17cRMWuwYXFt0A/closedform)
   
-#### [アンケートはこちら](ttps://docs.google.com/forms/d/e/1FAIpQLSez5murEghzpI_akPnVcWcSUMxCDb1U5cUd17cRMWuwYXFt0A/closedform)
+#### [アンケートはこちら](https://docs.google.com/forms/d/e/1FAIpQLSez5murEghzpI_akPnVcWcSUMxCDb1U5cUd17cRMWuwYXFt0A/closedform)
 
 #### [Slackへの参加はこちら](https://join.slack.com/t/kansailt/shared_invite/enQtNjg2MDQ4Njc0NDUzLTEwZGMyODIyZTcxOGQ1ODkyNDhkN2NmMGM2NmU5NjE0NDNkZjMzNDk3MjZhYjhjMDhmOGMzZjUxODNhYmZmZGI)
   
