@@ -1,5 +1,5 @@
 baseURL = "https://kansailt.github.io/homepage/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "KansaiLT"
 theme = "hugo-theme-blueberry-detox"
 publishDir = "docs" 
